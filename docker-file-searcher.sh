@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo $'============ Docker File Searcher ============\n'
-echo $'The script will grep user input recursively\n'
+echo $'The script will search a file using the basic unix tools.\n'
 
 # Check if the user provided input
 if [ -z "$1" ]; then
